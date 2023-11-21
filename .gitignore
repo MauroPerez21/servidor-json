@@ -2,8 +2,8 @@
 #myfolders
 /bin
 /lib
-/pages/book
-# dependencies
+
+endencies
 /node_modules
 /.pnp
 .pnp.js
