@@ -1,1 +1,3 @@
-export default ()=> <>This is one booklist page</>
+export default ()=> <><h2>In-cart</h2>
+                    <p>Items added to cart</p>
+                    </>
