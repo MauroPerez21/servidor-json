@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "nombre": "matematicas1",
+        "descripcion": "fundamentos de algebra y trigonometria",
+        "duración": "8 semanas",
+        "precio": "300000",
+        "fecha_ini":"12-08-2024",
+        "docente":{
+            "nombre": "andrea monsalve",
+            "documento": "10125587",
+            "correo": "andrea.monsQgmail.com"
+           
+        }
+    },
+    {
+        "id":2,
+        "nombre": "algoritmos1",
+        "descripcion": "fundamentos de algebra booleana",
+        "duración": "8 semanas",
+        "precio": "300000",
+        "fecha_ini":"12-16-2024",
+        "docente":{
+            "nombre": "andres cuervo",
+            "documento": "1875587",
+            "correo": "andres.cuervoQgmail.com"
+           
+        }
+    },
+    {
+        "id":3,
+        "nombre": "logica proposicional",
+        "descripcion": "pensamiento y razonamiento con enfasis en lenguaje escrito",
+        "duración": "16 semanas",
+        "precio": "600000",
+        "fecha_ini":"12-01-2024",
+        "docente":{
+            "nombre": "ferney ocampo",
+            "documento": "16558844",
+            "correo": "ferney.ocampoQgmail.com"
+           
+        }
+    }
+]

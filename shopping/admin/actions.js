@@ -1,8 +1,8 @@
 const ACTIONS = {
     ADD: 'books/add',
-    REMOVE: 'book/remove',
-    INCREASE:'book/up',
-    DECREASE:'book/down',
+    REMOVE: 'books/remove',
+    INCREASE:'books/up',
+    DECREASE:'books/down',
     INITIAL: []
 }
 export default ACTIONS

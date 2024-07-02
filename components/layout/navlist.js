@@ -11,12 +11,8 @@ export default function Navlist(){
                     <Link href="/books">books</Link>
                     </li>
                     <li>
-                    <Link href="/products">
-                        products</Link>
-                    </li>
-                    <li>
-                    <Link href="/booklist">
-                        in-cart&nbsp;<BsFillCartCheckFill/></Link>
+                    <Link href="/in-cart">
+                        in-cart</Link>
                     </li>
                 </ul>)
     </>)

@@ -4,7 +4,7 @@ import reducer from './reducer'
 const bookSlice = 
 createSlice({
     name:'books',
-    initialState:[],
+    initialState:{books:[]},
     reducers:{
         add:{reducer},
         remove:{reducer},
